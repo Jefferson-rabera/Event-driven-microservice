@@ -2,7 +2,7 @@
 
 A complete event-driven microservices architecture demonstrating distributed transaction handling with event sourcing.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # Clone and start the system
